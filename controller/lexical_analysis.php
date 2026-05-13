@@ -2,7 +2,7 @@
 
 // Masukkan API Key Gemini Anda di sini
 $API_KEY = 'AIzaSyCM9nWvaDo76nExckMDM98b51Y4oITHf6k'; // HATI-HATI: Jangan bagikan API Key Anda di publik
-$URL_API = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=';
+$URL_API = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=';
 
 /**
  * TAHAP 1: Analisis Leksikal Menggunakan Gemini API
